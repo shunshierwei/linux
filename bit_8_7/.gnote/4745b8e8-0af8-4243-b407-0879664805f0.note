@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<note version="0.3" xmlns:link="http://beatniksoftware.com/tomboy/link" xmlns:size="http://beatniksoftware.com/tomboy/size" xmlns="http://beatniksoftware.com/tomboy"><title>在 Gnote 中使用链接</title><text xml:space="preserve"><note-content>在 Gnote 中使用链接
+
+如果要将 Gnote 中的便笺互相链接，应该在当前便笺中选中相应的文本，然后单击上方工具栏中的<bold>链接</bold>按钮。执行此操作后，将创建一则新便笺，并将当前便笺中的选中文本作为新便笺的标题。
+
+更改便笺的标题将更新其它便笺中存在的链接。这可以保证重命名便笺时链接不会断开。
+
+另外，如果您在当前便笺中提到其它便笺的名称，程序也会自动为您创建相应的链接。</note-content></text><last-change-date>2016-06-16T23:54:21.398912Z</last-change-date><last-metadata-change-date>2016-06-16T23:54:21.398912Z</last-metadata-change-date><create-date>2016-06-16T23:54:21.325872Z</create-date><cursor-position>0</cursor-position><width>0</width><height>0</height><x>-1</x><y>-1</y><open-on-startup>False</open-on-startup></note>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="BopomofoKeyboardMapping" mtime="1466121263" type="int" value="0"/>
+	<entry name="SpecialPhrases" mtime="1466121263" type="bool" value="false"/>
+	<entry name="InitSimplifiedChinese" mtime="1466121263" type="bool" value="false"/>
+	<entry name="InitFullPunct" mtime="1466121263" type="bool" value="true"/>
+	<entry name="InitFull" mtime="1466121263" type="bool" value="false"/>
+	<entry name="InitChinese" mtime="1466121263" type="bool" value="true"/>
+	<entry name="FuzzyPinyin_UANG_UAN" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_UAN_UANG" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_IANG_IAN" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_IAN_IANG" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_ING_IN" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_IN_ING" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_ENG_EN" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_EN_ENG" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_ANG_AN" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_AN_ANG" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_G_K" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_K_G" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_R_L" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_L_R" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_H_F" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_F_H" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_N_L" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_L_N" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_SH_S" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_S_SH" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_ZH_Z" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_Z_ZH" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_CH_C" mtime="1466121263" type="bool" value="false"/>
+	<entry name="FuzzyPinyin_C_CH" mtime="1466121263" type="bool" value="false"/>
+	<entry name="IncompletePinyin" mtime="1466121263" type="bool" value="true"/>
+	<entry name="FuzzyPinyin" mtime="1466121263" type="bool" value="false"/>
+	<entry name="LookupTablePageSize" mtime="1466121263" type="int" value="5"/>
+	<entry name="LookupTableOrientation" mtime="1466121263" type="int" value="0"/>
+</gconf>
