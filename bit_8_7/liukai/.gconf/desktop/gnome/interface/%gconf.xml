@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<gconf>
-	<entry name="gtk-im-module" mtime="1471519941" type="string">
-		<stringvalue>ibus</stringvalue>
-	</entry>
-</gconf>
